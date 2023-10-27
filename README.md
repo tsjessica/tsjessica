@@ -1,7 +1,9 @@
 
-<h2>oioi!</h2>
-Sou estudante do curso técnico em informática.
-:)
+<h2>hello! Welcome to my profile!!🦊</h2>
+
+🎨 I like art and exploring my creativity.
+🌱 I care about environmental causes and I'm vegetarian.
+💻 I am currently in the first year of the IT technical course.
 
 <!--
 **tsjessica/tsjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

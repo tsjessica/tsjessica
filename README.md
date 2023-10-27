@@ -1,6 +1,7 @@
 
 <h2>oioi!</h2>
-Estou cursando o 1 ano do curso técnico em informática.
+Sou estudante do curso técnico em informática.
+:)
 
 <!--
 **tsjessica/tsjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

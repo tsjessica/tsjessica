@@ -1,5 +1,5 @@
 
-<h2>hello! Welcome to my profile!!</h2>
+<h2>Hello! Welcome to my profile!!</h2>
 
 <br>🎨 I like art and exploring my creativity.</br>
 <br>🌱 I care about environmental causes and I'm vegetarian.</br>

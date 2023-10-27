@@ -6,7 +6,7 @@
 <br>💻 I am currently in the first year of the IT technical course.</br>
 
 <!--
-**tsjessica/tsjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tsjessica/tsjessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
